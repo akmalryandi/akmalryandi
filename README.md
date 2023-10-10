@@ -4,6 +4,14 @@
   <samp>
     Hello, I'm <a href="https://github.com/akmalryandi">Akmal</a>. Interested in learning and exploring more about Frontend Development. 
   </samp>
+</p><br/>
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/akmalryandi">
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akmalryandi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akmalryandi&layout=compact&theme=tokyonight"/>
+</a>
 </p>
 
 ### Connect with me :rocket:
@@ -13,15 +21,6 @@
 <a href="https://www.linkedin.com/in/akmalryandi/">
   <img align="left" alt="Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
-<br/><br/>
-
-### Github Statistic
-<p align="left">
-<a href="https://github.com/akmalryandi">
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akmalryandi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akmalryandi&layout=compact&theme=tokyonight"/>
-</a>
-</p>
 
 <!--
 ### Hi there 👋
